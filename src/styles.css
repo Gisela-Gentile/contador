@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+.contenedor {
+  width: 500px;
+  height: 150px;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+h2 {
+  color: red;
+}
